@@ -14,7 +14,7 @@
   "description": "A tool to bootstrap a Webiny project.",
   "dependencies": {
     "@webiny/plugins": "^4.13.0",
-    "@webiny/tracking": "^4.13.0",
+    "@webiny/tracking": "^4.3.0",
     "camelcase": "^5.3.1",
     "chalk": "^2.4.2",
     "debug": "^4.1.1",
